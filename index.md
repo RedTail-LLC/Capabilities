@@ -7,6 +7,10 @@ Small Disadvantaged Business (SDB) that provides professional, technical, and ad
 civilian and defense U.S. Government agency customers to ensure readiness of critical systems, equipment,  
 and supplies.
 
+<a href="https://redtail-llc.github.io/Capabilities/Capabilities/RDL_Capability_Statement.pdf" download>
+  Click here to download a PDF copy of the RDL Capability Statement
+</a>
+
 ---
 
 ## COMPANY DATA
